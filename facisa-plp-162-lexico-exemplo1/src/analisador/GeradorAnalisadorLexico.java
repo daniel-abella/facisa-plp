@@ -13,7 +13,7 @@ public class GeradorAnalisadorLexico {
         
     }
     public static void main(String[] args) {
-        String path = "C:/Dev/WorkspaceMmkt/facisa-plp-162-exemplo1/src/analisador/Lexer.flex";
+        String path = "C:/Dev/Workspace/facisa-plp-162-exemplo1/src/analisador/Lexer.flex";
         gerarLexer(path);
     }
 }
